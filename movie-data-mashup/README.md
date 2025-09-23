@@ -24,13 +24,12 @@ This project demonstrates data science fundamentals by analyzing movie plot text
 # Prerequisites:
 - Python 3.6+
 - Internet connection for API calls
-- OMDb API key (free registration required)
+- OMDb API key 
 
 # Quick Start:
 1. Get your free OMDb API key from http://www.omdbapi.com/apikey.aspx
 2. Copy the code to Google Colab or your Python environment
-3. API key is already configured in the code (3073b2f0)
-4. Run the code and start using!
+3. Run the code and start using!
 
 
 # How to Run?
