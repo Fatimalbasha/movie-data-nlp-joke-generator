@@ -1,4 +1,4 @@
-# # Movie Data NLP Joke Generator
+# Movie Data NLP Joke Generator
 
 A Python project that combines movie data analysis with entertainment generation by fetching movie information and creating humorous mashups with jokes.
 
